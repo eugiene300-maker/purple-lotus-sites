@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bay-area-cannabis-geography.web.app/sitemap.xml
