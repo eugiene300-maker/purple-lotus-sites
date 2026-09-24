@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://milpitas-cannabis-information.web.app/sitemap.xml
