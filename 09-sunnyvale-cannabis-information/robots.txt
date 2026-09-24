@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunnyvale-cannabis-information.web.app/sitemap.xml
