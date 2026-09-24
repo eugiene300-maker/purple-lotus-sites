@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://purple-lotus-company-history.web.app/sitemap.xml
