@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://campbell-cannabis-information.web.app/sitemap.xml
