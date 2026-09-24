@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silicon-valley-2025-awards.web.app/sitemap.xml
