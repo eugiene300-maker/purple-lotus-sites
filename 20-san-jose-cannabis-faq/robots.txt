@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://san-jose-cannabis-faq.web.app/sitemap.xml
